@@ -4,7 +4,7 @@ Dive into the Extrovert vs. Introvert Personality Traits Dataset, a rich collect
 Personality traits like extroversion and introversion shape how individuals interact with their social environments. This dataset provides insights into behaviors such as time spent alone, social event attendance, and social media engagement, enabling applications in psychology, sociology, marketing, and machine learning. Whether you're predicting personality types or analyzing social patterns, this dataset is your gateway to uncovering fascinating insights.
 
 Features
-    - Time_spent_Alone: Hours spent alone daily (0–11).
+    -  Time_spent_Alone: Hours spent alone daily (0–11).
     - Stage_fear: Presence of stage fright (Yes/No).
     - Social_event_attendance: Frequency of social events (0–10).
     - Going_outside: Frequency of going outside (0–7).
